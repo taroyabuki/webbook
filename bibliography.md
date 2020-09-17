@@ -15,7 +15,7 @@
 11|[&#x1F50D;](https://calil.jp/book/4334962165)| セス・スティーヴンズ＝ダヴィドウィッツ著, 酒井泰介訳. 誰もが嘘をついている&mdash;ビッグデータ分析が暴く人間のヤバい本性. 光文社, 2018.
 12||[Andrew Kirkpatrick, Joshue O Connor, Alastair Campbell, MichaelCooper編, ウェブアクセシビリティ基盤委員会翻訳ワーキンググループ訳. Web content accessibility guidelines (WCAG) 2.1, 2018.](https://waic.jp/docs/WCAG21/)|[解説（WCAG 2.0）](https://waic.jp/docs/UNDERSTANDING-WCAG20/)，[実践方法](https://waic.jp/docs/WCAG-TECHS/)
 13|[&#x1F50D;](https://calil.jp/book/4756142818)|リチャード・ストールマン著, 長尾高弘訳. フリーソフトウェアと自由な社会&mdash;Richard M. Stallmanエッセイ集. アスキー, 2003.|[原書の第3版公開](https://www.gnu.org/doc/fsfs3-hardcover.pdf)
-14|[&#x1F50D;](https://calil.jp/book/4798102040)|ローレンス・レッシグ著, 山形浩生訳. コモンズ&mdash;ネット上の所有権強化は技術革新を殺す. 翔泳社, 2002.|[原書公開](http://the-future-of-ideas.com/download/)
+14|[&#x1F50D;](https://calil.jp/book/4798102040)|ローレンス・レッシグ著, 山形浩生訳. コモンズ&mdash;ネット上の所有権強化は技術革新を殺す. 翔泳社, 2002.|[原書公開](https://web.archive.org/web/20200619031932/http://www.the-future-of-ideas.com/download/lessig_FOI.pdf)
 15||[文化庁. 著作権テキスト（2019年度）.](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/kyozai.html)
 16||[フリーソフトウェア財団著, 情報処理推進機構訳. GNU一般公衆利用許諾書, 2007.](https://www.ipa.go.jp/files/000028332.html)|[解説書](https://www.ipa.go.jp/osc/license1.html)
 17||[Kyle E.Mitchell著, POSTD訳. MITライセンスを1行1行読んでいく, 2016.](https://postd.cc/mit-license-line-by-line/)
@@ -52,4 +52,4 @@
 48|[&#x1F50D;](https://calil.jp/search?q=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E5%A4%A7%E8%81%96%E5%A0%82)|ジョージ・ダイソン著, 吉田三知世訳. チューリングの大聖堂&mdash;コンピュータの創造とデジタル世界の到来. 早川書房, 2013.
 49|[&#x1F50D;](https://calil.jp/book/483996808X)|エドワード・アシュフォード・リー著, 遠藤美代子・富山貴子訳. プラトンとナード&mdash;人とテクノロジーの創造的パートナーシップ. マイナビ出版, 2019.
 50|[&#x1F50D;](https://calil.jp/book/4798106801)|ローレンス・レッシグ著, 山形浩生・守岡桜訳. Free Culture&mdash;いかに巨大メディアが法をつかって創造性や文化をコントロールするか. 翔泳社, 2004.|[原書公開](http://www.free-culture.cc/freecontent/)
-51|[&#x1F50D;](https://id.ndl.go.jp/bib/029721938)|[yomoyomo. もうすぐ絶滅するという開かれたウェブについて&mdash;続・情報共有の未来. 達人出版会, 2018.](https://tatsu-zine.com/books/infoshare2)|[国会図書館納本の経緯](https://yamdas.hatenablog.com/entry/20190115/openweb)
+51|[&#x1F50D;](https://id.ndl.go.jp/bib/029721938)|yomoyomo. もうすぐ絶滅するという開かれたウェブについて&mdash;続・情報共有の未来. 達人出版会, 2018.|[国会図書館納本の経緯](https://yamdas.hatenablog.com/entry/20190115/openweb)
