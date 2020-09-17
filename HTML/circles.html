@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Circles</title>
+  </head>
+  <body>
+    <canvas id="foo" width="120" height="120"></canvas>
+    <script>
+      var canvas = document.getElementById("foo");
+      var context = canvas.getContext("2d");
+      context.strokeStyle = "rgb(0, 0, 0)";
+      context.beginPath();
+      context.arc(60, 60, 50, 0, 2 * Math.PI);
+      context.stroke();
+    </script>
+    <svg width="120px" height="120px" viewBox="-60 -60 120 120">
+      <circle cx="0" cy="0" r="50"  stroke="black" fill="none"></circle>
+    </svg>
+  </body>
+</html>
