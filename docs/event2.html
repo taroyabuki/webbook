@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>input</title>
+</head>
+
+<body>
+<dl>
+  <dt>変換前</dt>
+  <dd><input id="before" type="text" placeholder="変換前" /></dd>
+  <dt>変換後</dt>
+  <dd><input id="after"  type="text" placeholder="変換後" /></dd>
+</dl>
+<script>
+const myBefore = document.getElementById("before");
+const myAfter  = document.getElementById("after");
+
+myBefore.addEventListener("input", (e) => {
+    "use strict";
+    myAfter.value = e.target.value.replace(
+        /[０-９－]/gu,
+        (str) => String.fromCharCode(str.charCodeAt(0) - 0xFEE0)
+    );
+});
+</script>
+</body>
+
+</html>

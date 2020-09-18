@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>event</title>
+</head>
+
+<body>
+<dl>
+  <dt>変換前</dt>
+  <dd><input id="before" type="text" placeholder="変換前" /></dd>
+  <dt>変換後</dt>
+  <dd><input id="after"  type="text" placeholder="変換後" /></dd>
+</dl>
+<script>
+const myBefore = document.getElementById("before"); // 変換前の要素
+const myAfter  = document.getElementById("after");  // 変換後の要素
+
+myBefore.addEventListener("input", (e) => { // イベントハンドラの登録
+    "use strict";
+    myAfter.value =           // 変換後の値を次で置き換える．
+      e.target.value.         // 変換前の値の
+        replace(/－/gu, "-"). // 「－」を「-」に置き換え，
+        replace(/０/gu, "0"). // 「０」を「0」に置き換え，
+        replace(/１/gu, "1"). // 「１」を「1」に置き換え，
+        replace(/２/gu, "2"). // 「２」を「2」に置き換え，
+        replace(/３/gu, "3"). // 「３」を「3」に置き換え，
+        replace(/４/gu, "4"). // 「４」を「4」に置き換え，
+        replace(/５/gu, "5"). // 「５」を「5」に置き換え，
+        replace(/６/gu, "6"). // 「６」を「6」に置き換え，
+        replace(/７/gu, "7"). // 「７」を「7」に置き換え，
+        replace(/８/gu, "8"). // 「８」を「8」に置き換え，
+        replace(/９/gu, "9"); // 「９」を「9」に置き換える．
+});
+</script>
+</body>
+
+</html>
