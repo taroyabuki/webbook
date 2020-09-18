@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ASCIIのURLでの記述方法</title>
+    <style>
+    table { border-collapse: collapse; }
+    caption {
+      text-align: left;
+    }
+    th, td {
+      font-family: Consolas;
+      border: 1px solid black;
+      text-align: center;
+      width: 2em;
+    }
+    td {background: gray;}
+    .printable {background: white;}
+    </style>
+  </head>
+  <body>
+    <table><caption>ASCII</caption>
+      <tr><th></th><script>for (var i = 0; i < 0x10; ++i) document.write("<th>" + i.toString(16).toUpperCase() + "</th>");</script></tr>
+      <tr><th>0</th><td>NUL</td><td>SOH</td><td>STX</td><td>ETX</td><td>EOT</td><td>ENQ</td><td>ACK</td><td>BEL</td><td>BS</td><td>HT</td><td>LF</td><td>VT</td><td>FF</td><td>CR</td><td>SO</td><td>SI</td></tr>
+      <tr><th>1</th><td>DLE</td><td>DC1</td><td>DC2</td><td>DC3</td><td>DC4</td><td>NAK</td><td>SYN</td><td>ETB</td><td>CAN</td><td>EM</td><td>SUB</td><td>ESC</td><td>FS</td><td>GS</td><td>RS</td><td>US</td></tr>
+      <script>
+        for (var i = 0x20; i < 0x7f; ++i) {
+          if (i % 0x10 == 0) document.write("<tr><th>" + i / 0x10 + "</th>");
+          document.write("<td class='printable'>&#" + i + ";</td>");
+          if (i % 0x10 == 0xf) document.write("</tr>");
+        }
+      </script><td>DEL</td></tr>
+    </table><br />
+    <table><caption>(a) URLを記述する際の表記</caption>
+      <tr><th></th><script>for (var i = 0; i < 0x10; ++i) document.write("<th>" + i.toString(16).toUpperCase() + "</th>");</script></tr>
+      <script>
+        for (var i = 0; i <= 0x7f; ++i) {
+          if (i % 0x10 == 0) document.write("<tr><th>" + i / 0x10 + "</th>");
+          if (0x1f < i && i < 0x7f) document.write("<td class='printable'>")
+          else document.write("<td>")
+          document.write(encodeURI(String.fromCodePoint(i))+ "</td>");
+          if (i % 0x10 == 0xf) document.write("</tr>");
+        }
+      </script>
+    </table><br />
+    <table><caption>(b) URLのクエリーを記述する際の表記</caption>
+      <tr><th></th><script>for (var i = 0; i < 0x10; ++i) document.write("<th>" + i.toString(16).toUpperCase() + "</th>");</script></tr>
+      <script>
+        function encodeURIComponentRFC3986(str) {
+          return encodeURIComponent(str).replace(/[!*'()]/g, function(p) {
+            return "%" + p.charCodeAt(0).toString(16);
+          });
+        }
+        for (var i = 0; i <= 0x7f; ++i) {
+          if (i % 0x10 == 0) document.write("<tr><th>" + i / 0x10 + "</th>");
+          if (0x1f < i && i < 0x7f) document.write("<td class='printable'>")
+          else document.write("<td>")
+          document.write(encodeURIComponentRFC3986(String.fromCodePoint(i))+ "</td>");
+          if (i % 0x10 == 0xf) document.write("</tr>");
+        }
+      </script>
+    </table>
+  </body>
+</html>
