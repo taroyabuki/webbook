@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>font-familyプロパティ</title>
+  <style>
+    th {
+      text-align: left;
+    }
+    td {
+      vertical-align: top;
+    }
+    strong {
+      font-family: sans-serif;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body style="font-family: serif;">
+  <table style="width: 34em; border-collapse: collapse; border: 1px solid black; border-style: solid none;">
+    <tr style="border-bottom: 1px solid;">
+      <th style="width: 7em;">プロパティ値</th>
+      <th style="width: 7em;">表示例</th>
+      <th>効果</th>
+    </tr>
+    <tr>
+      <td style="font-family: monospace;">serif</td>
+      <td style="font-family: serif;">hello, world</td>
+      <td>欧文は<strong>セリフ体</strong>，日本語は<strong>明朝体</strong></td>
+    </tr>
+    <tr>
+      <td style="font-family: monospace;">sans-serif</td>
+      <td style="font-family: sans-serif;">hello, world</td>
+      <td>欧文は<strong>サンセリフ体</strong>，日本語は<strong>ゴシック体</strong></td>
+    </tr>
+    <tr>
+      <td style="font-family: monospace;">monospace</td>
+      <td style="font-family: monospace;">hello, world</td>
+      <td><strong>等幅フォント</strong>（1文字が占める領域の幅が，漢
+        字，ひらがな，カタカナ等と同じが，そのちょうど半分
+        になる．プログラムコードを掲載する際に使われること
+        が多い．）</td>
+    </tr>
+    <tr>
+      <td style="font-family: monospace;">cursive</td>
+      <td style="font-family: cursive;">hello, world</td>
+      <td>手書き風の書体</td>
+    </tr>
+    <tr>
+      <td style="font-family: monospace;">fantasy</td>
+      <td style="font-family: fantasy;">hello, world</td>
+      <td>装飾系の書体</td>
+    </tr>
+    <tr>
+      <td style="font-family: monospace;">system-ui</td>
+      <td style="font-family: system-ui;">hello, world</td>
+      <td>OSのユーザインタフェースと同じ書体</td>
+    </tr>
+  </table>
+  
+  <p style='font-family: "YuMincho", "Yu Mincho", serif;'>あいうえお　\(^o^)/　（游明朝）</p>
+  <p style='font-family: serif;'>あいうえお　\(^o^)/　（serif）</p>
+</body>
+
+</html>
