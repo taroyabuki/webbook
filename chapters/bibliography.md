@@ -12,7 +12,7 @@
 8|[&#x1F50D;](https://calil.jp/search?q=%E9%8A%80%E6%B2%B3%E3%83%92%E3%83%83%E3%83%81%E3%83%8F%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%AC%E3%82%A4%E3%83%89)|ダグラス・アダムス著, 風見潤訳. 銀河ヒッチハイク・ガイド. 新潮社, 1982.
 9|[&#x1F50D;](https://calil.jp/book/482228493X)|ジョン・マコーミック著, 長尾高弘訳. 世界でもっとも強力な9のアルゴリズム. 日経BP, 2012.
 10||[Sergey Brin and Lawrence Page. The anatomy of a large-scale hypertextual web search engine. <em>Computer Networks and ISDN Systems</em>, Vol. 30, No. 1&ndash;7, pp. 107&ndash;117, 1998.](http://infolab.stanford.edu/~backrub/google.html)
-11|[&#x1F50D;](https://calil.jp/book/4334962165)| セス・スティーヴンズ＝ダヴィドウィッツ著, 酒井泰介訳. 誰もが嘘をついている&mdash;ビッグデータ分析が暴く人間のヤバい本性. 光文社, 2018.
+11|[&#x1F50D;](https://calil.jp/book/4334962165)|セス・スティーヴンズ＝ダヴィドウィッツ著, 酒井泰介訳. 誰もが嘘をついている&mdash;ビッグデータ分析が暴く人間のヤバい本性. 光文社, 2018.
 12||[Andrew Kirkpatrick, Joshue O Connor, Alastair Campbell, MichaelCooper編, ウェブアクセシビリティ基盤委員会翻訳ワーキンググループ訳. Web content accessibility guidelines (WCAG) 2.1, 2018.](https://waic.jp/docs/WCAG21/)|[解説（WCAG 2.0）](https://waic.jp/docs/UNDERSTANDING-WCAG20/)，[実践方法](https://waic.jp/docs/WCAG-TECHS/)
 13|[&#x1F50D;](https://calil.jp/book/4756142818)|リチャード・ストールマン著, 長尾高弘訳. フリーソフトウェアと自由な社会&mdash;Richard M. Stallmanエッセイ集. アスキー, 2003.|[原書の第3版公開](https://www.gnu.org/doc/fsfs3-hardcover.pdf)
 14|[&#x1F50D;](https://calil.jp/book/4798102040)|ローレンス・レッシグ著, 山形浩生訳. コモンズ&mdash;ネット上の所有権強化は技術革新を殺す. 翔泳社, 2002.|[原書公開](https://web.archive.org/web/20200619031932/http://www.the-future-of-ideas.com/download/lessig_FOI.pdf)
@@ -30,7 +30,7 @@
 26||[Nicky Case. 群衆の英知もしくは狂気.](https://ncase.me/crowds/ja.html)|[ソースコード](https://github.com/ncase/crowds)
 27|[&#x1F50D;](https://calil.jp/search?q=%E9%96%89%E3%81%98%E3%81%93%E3%82%82%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88)|イーライ・パリサー著, 井口耕二訳. 閉じこもるインターネット&mdash;グーグル・パーソナライズ・民主主義. 早川書房, 2012.|文庫版は『フィルターバブル&mdash;インターネットが隠していること』．[危険なインターネット上の「フィルターに囲まれた世界」（TEDトーク）](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=ja)
 28|[&#x1F50D;](https://calil.jp/book/4620316601)|キャス・サンスティーン著, 石川幸憲訳. インターネットは民主主義の敵か. 毎日新聞社, 2003.
-29|[&#x1F50D;](https://calil.jp/book/4334962289)|デイヴィッド・サンプター著, 千葉敏生・橋本篤史訳. 数学者が検証！ アルゴリズムはどれほど人を支配しているのか？ 光文社, 2019.
+29|[&#x1F50D;]
 30|[&#x1F50D;](https://calil.jp/book/4794222378)|ブルース・シュナイアー著, 池村千秋訳. 超監視社会&mdash;私たちのデータはどこまで見られているのか？ 草思社, 2016.|[原注と資料](http://www.soshisha.com/goliath/)
 31|[&#x1F50D;](https://calil.jp/book/4794220871)|ダナ・ボイド著, 野中モモ訳. つながりっぱなしの日常を生きる&mdash;ソーシャルメディアが若者にもたらしたもの. 草思社, 2014.
 32|[&#x1F50D;](https://calil.jp/search?q=%E3%80%8C%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E6%84%8F%E8%A6%8B%E3%80%8D%E3%81%AF%E6%A1%88%E5%A4%96%E6%AD%A3%E3%81%97%E3%81%84)|ジェームズ・スロウィッキー著, 小高尚子訳. 「みんなの意見」は案外正しい. 角川書店, 2004.

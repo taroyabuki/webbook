@@ -4,4 +4,3 @@
 
 - https://archive.org
 - https://www.jisc.go.jp/app/jis/general/GnrJISSearch.html
-- https://github.com/taroyabuki/webbook
