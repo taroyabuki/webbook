@@ -1,5 +1,10 @@
 # Webのしくみ（サイエンス社, 2020） サポートサイト
 
+- ISBN: 978-4-7819-1477-0
+- サイエンス社
+  - [Webのしくみ（本書）](https://www.saiensu.co.jp/search/?isbn=978-4-7819-1477-0&y=2020)
+  - [Computer and Web Sciences Library（本書を含むライブラリ）](https://www.saiensu.co.jp/search/?book_class_id=2&library_id=300)
+
 ## 図・参考文献・URL
 
 - [はじめに](chapters/preface.md)
