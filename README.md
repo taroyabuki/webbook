@@ -1,5 +1,7 @@
 # Webのしくみ（サイエンス社, 2020） サポートサイト
 
+<img src="https://raw.githubusercontent.com/taroyabuki/webbook/master/cover.jpg" style="float:right; border:1px solid black;" />
+
 - ISBN: 978-4-7819-1477-0
 - サイエンス社
   - [Webのしくみ（本書）](https://www.saiensu.co.jp/search/?isbn=978-4-7819-1477-0&y=2020)
@@ -24,4 +26,4 @@
 - [おわりに](chapters/afterword.md)
 - [参考文献](chapters/bibliography.md)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/taroyabuki/webbook" property="cc:attributionName" rel="cc:attributionURL">矢吹太朗</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Webのしくみ（サイエンス社, 2020） サポートサイト</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/taroyabuki/webbook" property="cc:attributionName" rel="cc:attributionURL">矢吹太朗</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Webのしくみ（サイエンス社, 2020） サポートサイト</span>』のテキストとSVG形式の画像は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
