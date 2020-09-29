@@ -1,6 +1,6 @@
 # Webのしくみ（サイエンス社, 2020） サポートサイト
 
-<img src="https://raw.githubusercontent.com/taroyabuki/webbook/master/cover.jpg" style="float:right; border:1px solid black;" />
+![書影](cover.jpg)
 
 - ISBN: 978-4-7819-1477-0
 - サイエンス社
