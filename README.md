@@ -6,6 +6,10 @@
 - サイエンス社
   - [Webのしくみ（本書）](https://www.saiensu.co.jp/search/?isbn=978-4-7819-1477-0&y=2020)
   - [Computer and Web Sciences Library（本書を含むライブラリ）](https://www.saiensu.co.jp/search/?book_class_id=2&library_id=300)
+- 書店
+  - [honto](https://honto.jp/isbn/978-4-7819-1477-0)
+  - [アマゾン](https://www.amazon.co.jp/dp/4781914772)
+  - 他の書店へのリンクが[版元ドットコム](https://www.hanmoto.com/bd/isbn/9784781914770)でまとめられています．
 
 ## 図・参考文献・URL
 
