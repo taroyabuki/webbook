@@ -9,6 +9,7 @@
 - 書店（次を含む複数の書店へのリンクが[版元ドットコム](https://www.hanmoto.com/bd/isbn/9784781914770)でまとめられています．）
   - [honto](https://honto.jp/isbn/978-4-7819-1477-0)
   - [アマゾン](https://www.amazon.co.jp/dp/4781914772)
+- [正誤表](errata.md)
 
 ## 図・参考文献・URL
 
