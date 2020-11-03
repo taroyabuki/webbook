@@ -19,7 +19,7 @@
 - [第2章　検索](chapters/02.md)
 - [第3章　自分のメディア](chapters/03.md)
 - [第4章　ライセンス](chapters/04.md)
-- [第5章　ソーシャルメディア](chapters/05.md)
+- [第5章　シェア](chapters/05.md)
 - [第6章　アカウント](chapters/06.md)
 - [第7章　クラウド（群衆）](chapters/07.md)
 - [第8章　暗号](chapters/08.md)
