@@ -3,63 +3,74 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>ASCIIのURLでの記述方法</title>
+    <title>ASCII文字のURLでの記述方法</title>
     <style>
-    table { border-collapse: collapse; }
-    caption {
-      text-align: left;
+    .container { 
+      display: grid;
+      width: 40em;
     }
-    th, td {
-      font-family: Consolas;
-      border: 1px solid black;
+    .container div {
+      border: solid black 1px;
+      margin: 0 -1px -1px 0;
       text-align: center;
-      width: 2em;
+      font-family: Consolas;
     }
-    td {background: gray;}
-    .printable {background: white;}
+    .label { font-weight: bold; }
+    .control { background: gray; }
     </style>
+    <script>
+      function cell(cls, r, c, content) {
+        document.write(`<div ${cls} style='grid-row-start: ${2 + r}; grid-column-start: ${2 + c}'>${content}</div>`);
+      }
+      function ascii(i) {
+        const del = 0x7f;
+        if (0x20 <= i && i < del) {
+          return `&#${i};`;
+        }
+        let controls = new Array("NUL", "SOH", "STX", "ETX", "EOT", "ENQ", "ACK", "BEL", "BS", "HT", "LF", "VT", "FF", "CR", "SO", "SI","DLE", "DC1", "DC2", "DC3", "DC4", "NAK", "SYN", "ETB", "CAN", "EM", "SUB", "ESC", "FS", "GS", "RS", "US");
+        controls[del] = "DEL";
+        return controls[i];
+      }
+      function url(i) {
+        return encodeURI(String.fromCodePoint(i));
+      }
+      function encodeURIComponentRFC3986(str) {
+        return encodeURIComponent(str).replace(/[!*'()]/g, function(p) {
+          return "%" + p.charCodeAt(0).toString(16);
+        });
+      }
+      function urlQuery(i) {
+        return encodeURIComponentRFC3986(String.fromCodePoint(i));
+      }
+      function makeTable(f) {
+        document.write("<div class='container'>");
+        const label = "class='label'";
+        for (let i = 0; i < 8; ++i) {
+          cell(label, i, -1, i);
+        }
+        for (let i = 0; i < 0x10; ++i) {
+          cell(label, -1, i, i.toString(16).toUpperCase());
+        }
+        for (let i = 0; i <= 0x7f; ++i) {
+          const cls = (0x20 <= i && i < 0x7f) ? "" : "class='control'";
+          cell(cls, Math.floor(i / 0x10), i % 0x10, f(i));
+        }
+        document.write("</div>");
+      }
+    </script>
   </head>
   <body>
-    <table><caption>ASCII</caption>
-      <tr><th></th><script>for (var i = 0; i < 0x10; ++i) document.write("<th>" + i.toString(16).toUpperCase() + "</th>");</script></tr>
-      <tr><th>0</th><td>NUL</td><td>SOH</td><td>STX</td><td>ETX</td><td>EOT</td><td>ENQ</td><td>ACK</td><td>BEL</td><td>BS</td><td>HT</td><td>LF</td><td>VT</td><td>FF</td><td>CR</td><td>SO</td><td>SI</td></tr>
-      <tr><th>1</th><td>DLE</td><td>DC1</td><td>DC2</td><td>DC3</td><td>DC4</td><td>NAK</td><td>SYN</td><td>ETB</td><td>CAN</td><td>EM</td><td>SUB</td><td>ESC</td><td>FS</td><td>GS</td><td>RS</td><td>US</td></tr>
-      <script>
-        for (var i = 0x20; i < 0x7f; ++i) {
-          if (i % 0x10 == 0) document.write("<tr><th>" + i / 0x10 + "</th>");
-          document.write("<td class='printable'>&#" + i + ";</td>");
-          if (i % 0x10 == 0xf) document.write("</tr>");
-        }
-      </script><td>DEL</td></tr>
-    </table><br />
-    <table><caption>(a) URLを記述する際の表記</caption>
-      <tr><th></th><script>for (var i = 0; i < 0x10; ++i) document.write("<th>" + i.toString(16).toUpperCase() + "</th>");</script></tr>
-      <script>
-        for (var i = 0; i <= 0x7f; ++i) {
-          if (i % 0x10 == 0) document.write("<tr><th>" + i / 0x10 + "</th>");
-          if (0x1f < i && i < 0x7f) document.write("<td class='printable'>")
-          else document.write("<td>")
-          document.write(encodeURI(String.fromCodePoint(i))+ "</td>");
-          if (i % 0x10 == 0xf) document.write("</tr>");
-        }
-      </script>
-    </table><br />
-    <table><caption>(b) URLのクエリーを記述する際の表記</caption>
-      <tr><th></th><script>for (var i = 0; i < 0x10; ++i) document.write("<th>" + i.toString(16).toUpperCase() + "</th>");</script></tr>
-      <script>
-        function encodeURIComponentRFC3986(str) {
-          return encodeURIComponent(str).replace(/[!*'()]/g, function(p) {
-            return "%" + p.charCodeAt(0).toString(16);
-          });
-        }
-        for (var i = 0; i <= 0x7f; ++i) {
-          if (i % 0x10 == 0) document.write("<tr><th>" + i / 0x10 + "</th>");
-          if (0x1f < i && i < 0x7f) document.write("<td class='printable'>")
-          else document.write("<td>")
-          document.write(encodeURIComponentRFC3986(String.fromCodePoint(i))+ "</td>");
-          if (i % 0x10 == 0xf) document.write("</tr>");
-        }
-      </script>
-    </table>
+    <p>ASCII</p>
+    <script>
+      makeTable(ascii);
+    </script>
+    <p>(a) URLを記述する際の表記</p>
+    <script>
+      makeTable(url);
+    </script>
+    <p>(b) URLのクエリを記述する際の表記</p>
+    <script>
+      makeTable(urlQuery);
+    </script>
   </body>
 </html>
