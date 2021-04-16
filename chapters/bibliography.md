@@ -20,7 +20,7 @@
 16||[フリーソフトウェア財団著, 情報処理推進機構訳. GNU一般公衆利用許諾書, 2007.](https://www.ipa.go.jp/files/000028332.html)|[解説書](https://www.ipa.go.jp/osc/license1.html)
 17||[Kyle E.Mitchell著, POSTD訳. MITライセンスを1行1行読んでいく, 2016.](https://postd.cc/mit-license-line-by-line/)
 18|[&#x1F50D;](https://calil.jp/book/4320024877)|Ken Thompson. Reflections on trusting trust. <em>Communications of the ACM</em>, Vol. 27, No. 8, pp. 761&ndash;763, August 1984.|赤攝也ほか訳『ACMチューリング賞講演集』（共立出版, 1989）に収録
-19|[&#x1F50D;](https://calil.jp/book/4152098872)|カル・ニューポート著, 池田真紀子訳. デジタル・ミニマリスト&mdash;本当に大切なことに集中する. 早川書房, 2019.
+19|[&#x1F50D;](https://calil.jp/book/4152098872)|カル・ニューポート著, 池田真紀子訳. デジタル・ミニマリスト&mdash;本当に大切なことに集中する. 早川書房, 2019.|[文庫（2021）](https://calil.jp/book/415050573X)
 20|[&#x1F50D;](https://calil.jp/book/4757102860)|スコット・ローゼンバーグ著, 井口耕二訳. ブログ誕生&mdash;総表現社会を切り拓いてきた人々とメディア. NTT出版, 2010.|[文献リスト](https://web.archive.org/web/20170824090908/http://nttpub.co.jp/book/100002092/index.html)
 21|[&#x1F50D;](https://calil.jp/book/4152098627)|デイヴィッド・パトリカラコス著, 江口泰子訳. 140字の戦争&mdash;SNSが戦場を変えた. 早川書房, 2019.
 22|[&#x1F50D;](https://calil.jp/book/4334039723)|ジョン・ロンソン著, 夏目大訳. ルポ ネットリンチで人生を壊された人たち. 光文社, 2017.
