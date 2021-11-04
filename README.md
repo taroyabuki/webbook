@@ -1,16 +1,12 @@
+[サイエンス社](https://www.saiensu.co.jp) ／ [Computer and Web Sciences Library](https://www.saiensu.co.jp/search/?book_class_id=2&library_id=300) ／ [Webのしくみ](https://www.saiensu.co.jp/search/?isbn=978-4-7819-1477-0&y=2020)
+
 # Webのしくみ（サイエンス社, 2020） サポートサイト
 
 ![書影](cover.jpg)
 
-- ISBN: 978-4-7819-1477-0
-- サイエンス社
-  - [Webのしくみ（本書）](https://www.saiensu.co.jp/search/?isbn=978-4-7819-1477-0&y=2020)
-  - [Computer and Web Sciences Library（本書を含むライブラリ）](https://www.saiensu.co.jp/search/?book_class_id=2&library_id=300)
-- 書店（次を含む複数の書店へのリンクが[版元ドットコム](https://www.hanmoto.com/bd/isbn/9784781914770)でまとめられています．）
-  - [honto](https://honto.jp/isbn/978-4-7819-1477-0)
-  - [アマゾン](https://www.amazon.co.jp/dp/4781914772)
-  - [紀伊國屋 Web Store](https://www.kinokuniya.co.jp/f/dsg-01-9784781914770)
-- [正誤表](errata.md)
+[書店へのリンク集（版元ドットコム）](https://www.hanmoto.com/bd/isbn/9784781914770)
+
+[正誤表](errata.md)
 
 ## 図・参考文献・URL
 
