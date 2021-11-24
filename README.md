@@ -7,7 +7,7 @@
 - [書店へのリンク集（版元ドットコム）](https://www.hanmoto.com/bd/isbn/9784781914770)
 - [国会図書館](https://iss.ndl.go.jp/books/R100000002-I030683705-00)
 
-## [正誤表](errata.md)
+## [更新情報・正誤表](update.md)
 
 ## 図・参考文献・URL
 
