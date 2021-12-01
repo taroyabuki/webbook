@@ -51,5 +51,5 @@
 47||[常用漢字表, 2010.](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/)|[文化審議会国語分科会「常用漢字表の字体・字形に関する指針（報告）」（2016）](https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/jitai_jikei_shishin.pdf)（[概要](https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/pdf/2016022902_besshi01.pdf)）
 48|[&#x1F50D;](https://calil.jp/search?q=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E5%A4%A7%E8%81%96%E5%A0%82)|ジョージ・ダイソン著, 吉田三知世訳. チューリングの大聖堂&mdash;コンピュータの創造とデジタル世界の到来. 早川書房, 2013.
 49|[&#x1F50D;](https://calil.jp/book/483996808X)|エドワード・アシュフォード・リー著, 遠藤美代子・富山貴子訳. プラトンとナード&mdash;人とテクノロジーの創造的パートナーシップ. マイナビ出版, 2019.
-50|[&#x1F50D;](https://calil.jp/book/4798106801)|ローレンス・レッシグ著, 山形浩生・守岡桜訳. Free Culture&mdash;いかに巨大メディアが法をつかって創造性や文化をコントロールするか. 翔泳社, 2004.|[原書公開](https://lessig.org/product/free-culture/)
+50|[&#x1F50D;](https://calil.jp/book/4798106801)|ローレンス・レッシグ著, 山形浩生・守岡桜訳. Free Culture&mdash;いかに巨大メディアが法をつかって創造性や文化をコントロールするか. 翔泳社, 2004.|[原書公開](https://web.archive.org/web/20210827125653/https://lessig.org/product/free-culture/)
 51|[&#x1F50D;](https://id.ndl.go.jp/bib/029721938)|yomoyomo. もうすぐ絶滅するという開かれたウェブについて&mdash;続・情報共有の未来. 達人出版会, 2018.|[国会図書館納本の経緯](https://yamdas.hatenablog.com/entry/20190115/openweb)
