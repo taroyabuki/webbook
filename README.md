@@ -2,14 +2,20 @@
 
 # Webのしくみ（サイエンス社, 2020） サポートサイト
 
-<a href="https://github.com/taroyabuki/webbook/blob/master/cover.jpg"><img src="https://raw.githubusercontent.com/taroyabuki/webbook/master/cover.jpg" alt="書影" style="width:180px;"/></a>
-
 - [書店へのリンク集（版元ドットコム）](https://www.hanmoto.com/bd/isbn/9784781914770)
 - [国会図書館](https://iss.ndl.go.jp/books/R100000002-I030683705-00)
 
+<a href="https://github.com/taroyabuki/webbook/blob/master/cover.jpg"><img src="https://raw.githubusercontent.com/taroyabuki/webbook/master/cover.jpg" alt="書影" style="width:180px;"/></a>
+
+子供は将来，様々な問題に直面します．それは，日常生活の中で出会う小さな問題かもしれませんし，世界を変えるような大きな問題かもしれません．それがどういう問題であっても，その解決にはウェブが役立つと思うのです．ウェブに何があるのか，それを「道具」として紹介します．
+
+第0章でこの本全体の構成を説明した後で，第1章から第12章で，そういう道具を一つずつ紹介します．ですから，この本で紹介する道具は全部で12個です．子供達がこの12個を自分の道具箱に入れて，将来何かに役立ててくれることを願います．
+
 ## [更新情報・正誤表](update.md)
 
-## 図・参考文献・URL
+## 目次
+
+リンク先には，書籍中の図・参考文献・URLを掲載しています．
 
 - [はじめに](chapters/preface.md)
 - [第0章　この本の読み方](chapters/00.md)
