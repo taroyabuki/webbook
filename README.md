@@ -5,7 +5,7 @@
 - [書店へのリンク集（版元ドットコム）](https://www.hanmoto.com/bd/isbn/9784781914770)
 - [国会図書館](https://iss.ndl.go.jp/books/R100000002-I030683705-00)
 
-<a href="https://github.com/taroyabuki/webbook/blob/master/cover.jpg"><img src="https://raw.githubusercontent.com/taroyabuki/webbook/master/cover.jpg" alt="書影" style="width:180px;"/></a>
+<img src="https://www.saiensu.co.jp/bookImages/2020-978-4-7819-1477-0.jpg" alt="書影" style="border: 1px solid grey; width:180px;"/>
 
 子供は将来，様々な問題に直面します．それは，日常生活の中で出会う小さな問題かもしれませんし，世界を変えるような大きな問題かもしれません．それがどういう問題であっても，その解決にはウェブが役立つと思うのです．ウェブに何があるのか，それを「道具」として紹介します．
 
