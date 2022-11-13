@@ -8,6 +8,13 @@ p.140 脚注7|https://www.bbcnewsv2vjtpsuy.onion|https://www.bbcnewsd73hkzno2ini
 p.140 脚注8|https://www.nytimes3xbfgragh.onion|https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 p.183 文献50)|http://www.free-culture.cc/freecontent/|https://web.archive.org/web/20201212044422/http://www.free-culture.cc/freeculture.pdf
 
+# 実習のための資料
+
+- [8.2「暗号の基本」，8.3「公開鍵暗号」](chapters/08_cipher.ipynb)
+- 10.4「データベースのための言語」
+    - [SQL入門](chapters/10.4/sql.ipynb)
+    - [郵便番号データベースによる体験SQL](chapters/10.4/zip.ipynb)
+
 # 正誤表
 
 場所|誤|正
