@@ -8,7 +8,7 @@ p.51|ツイッター|X（ツイッター）
 p.52 表5.1|ツイート，つぶやき，ツイートする，リツイート|ポスト（ツイート），ポスト（つぶやき），ポストする（ツイートする），リポスト（リツイート）
 p.72 脚註7|W3C Validation|W3C Web Validator
 p.140 脚注7|https://www.bbcnewsv2vjtpsuy.onion|https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion
-p.140 脚注8|https://www.nytimes3xbfgragh.onion|https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
+p.140 脚注8|https://www.nytimes3xbfgragh.onion|閉鎖．[NYTの発表](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
 p.183 文献50)|http://www.free-culture.cc/freecontent/|https://web.archive.org/web/20201212044422/http://www.free-culture.cc/freeculture.pdf
 
 # 実習のための資料
