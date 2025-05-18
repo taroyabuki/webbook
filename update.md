@@ -13,10 +13,13 @@ p.91 脚注|https://twitter.com|https://x.com
 p.140 脚注7|https://www.bbcnewsv2vjtpsuy.onion|https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion
 p.140 脚注8|https://www.nytimes3xbfgragh.onion|閉鎖．[NYTの発表](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
 p.179 文献14)|http://the-future-of-ideas.com/download/|https://archive.org/details/TheFutureOfIdeas
+p.179 文献15)|https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/kyozai.html|https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/
+p.179 文献16)|https://www.ipa.go.jp/osc/license1.html|https://warp.da.ndl.go.jp/info:ndljp/pid/12019585/www.ipa.go.jp/osc/license1.html
 p.183 文献50)|http://www.free-culture.cc/freecontent/|https://archive.org/details/free_culture
 
 # 実習のための資料
 
+- [4.3.2 C言語のプログラムの実行方法・トンプソンハック](chapters/04_thompson.ipynb)
 - [8.2「暗号の基本」，8.3「公開鍵暗号」](chapters/08_cipher.ipynb)
 - 10.4「データベースのための言語」
     - [SQL入門](chapters/10.4/sql.ipynb)

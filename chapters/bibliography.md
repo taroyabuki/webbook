@@ -16,10 +16,10 @@
 12||[Andrew Kirkpatrick, Joshue O Connor, Alastair Campbell, MichaelCooper編, ウェブアクセシビリティ基盤委員会翻訳ワーキンググループ訳. Web content accessibility guidelines (WCAG) 2.1, 2018.](https://waic.jp/docs/WCAG21/)|[解説（WCAG 2.0）](https://waic.jp/docs/UNDERSTANDING-WCAG20/)，[実践方法](https://waic.jp/docs/WCAG-TECHS/)
 13|[&#x1F50D;](https://calil.jp/book/4756142818)|リチャード・ストールマン著, 長尾高弘訳. フリーソフトウェアと自由な社会&mdash;Richard M. Stallmanエッセイ集. アスキー, 2003.|[原書の第3版公開](https://www.gnu.org/doc/fsfs3-hardcover.pdf)
 14|[&#x1F50D;](https://calil.jp/book/4798102040)|ローレンス・レッシグ著, 山形浩生訳. コモンズ&mdash;ネット上の所有権強化は技術革新を殺す. 翔泳社, 2002.|[原書公開](https://archive.org/details/TheFutureOfIdeas)
-15||[文化庁. 著作権テキスト（2019年度）.](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/kyozai.html)
-16||[フリーソフトウェア財団著, 情報処理推進機構訳. GNU一般公衆利用許諾書, 2007.](https://www.ipa.go.jp/files/000028332.html)|[解説書](https://www.ipa.go.jp/osc/license1.html)
+15||[文化庁. 著作権テキスト.](https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/)
+16||[フリーソフトウェア財団著, 情報処理推進機構訳. GNU一般公衆利用許諾書, 2007.](https://warp.da.ndl.go.jp/info:ndljp/pid/12019585/www.ipa.go.jp/files/000028332.html)|[解説書](https://warp.da.ndl.go.jp/info:ndljp/pid/12019585/www.ipa.go.jp/osc/license1.html)
 17||[Kyle E.Mitchell著, POSTD訳. MITライセンスを1行1行読んでいく, 2016.](https://postd.cc/mit-license-line-by-line/)
-18|[&#x1F50D;](https://calil.jp/book/4320024877)|Ken Thompson. Reflections on trusting trust. <em>Communications of the ACM</em>, Vol. 27, No. 8, pp. 761&ndash;763, August 1984.|赤攝也ほか訳『ACMチューリング賞講演集』（共立出版, 1989）に収録
+18|[&#x1F50D;](https://calil.jp/book/4320024877)|[Ken Thompson. Reflections on trusting trust. <em>Communications of the ACM</em>, Vol. 27, No. 8, pp. 761&ndash;763, August 1984.](https://dl.acm.org/doi/10.1145/358198.358210)|赤攝也ほか訳『ACMチューリング賞講演集』（共立出版, 1989）に収録．[Yasunori Kuji訳](https://qiita.com/uturned0/items/95dad5cd688c3c9f5df9)
 19|[&#x1F50D;](https://calil.jp/search?q=%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%88)|カル・ニューポート著, 池田真紀子訳. デジタル・ミニマリスト&mdash;本当に大切なことに集中する. 早川書房, 2019.|2021年に文庫化．
 20|[&#x1F50D;](https://calil.jp/book/4757102860)|スコット・ローゼンバーグ著, 井口耕二訳. ブログ誕生&mdash;総表現社会を切り拓いてきた人々とメディア. NTT出版, 2010.|[文献リスト](https://web.archive.org/web/20170824090908/http://nttpub.co.jp/book/100002092/index.html)
 21|[&#x1F50D;](https://calil.jp/book/4152098627)|デイヴィッド・パトリカラコス著, 江口泰子訳. 140字の戦争&mdash;SNSが戦場を変えた. 早川書房, 2019.
