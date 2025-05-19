@@ -17,6 +17,20 @@ p.179 文献15)|https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/kyozai.
 p.179 文献16)|https://www.ipa.go.jp/osc/license1.html|https://warp.da.ndl.go.jp/info:ndljp/pid/12019585/www.ipa.go.jp/osc/license1.html
 p.183 文献50)|http://www.free-culture.cc/freecontent/|https://archive.org/details/free_culture
 
+クリエイティブコモンズのライセンスは https://creativecommons.org/chooser/ で作ります。このページに関連する部分が，次のように変わります。
+
+- p.60 図3.5のライセンス表記は次のようになる。
+
+<a href="https://example.net">M</a> © 2020 by <a href="https://www.unfindable.net">Yabuki Taro</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+- p.82 図4.1とは，ページのデザインが異なる。実際に https://creativecommons.org/chooser/ にアクセスして確認してほしい。
+- p.82 脚注1で述べた，規格外の属性は使われなくなった。ただし，次項のようにimg要素にalt属性が省略されているため，構文チェックではエラーになる。
+- p.83のHTMLは次のように変わる。
+
+```html
+<a href="https://example.net">M</a> © 2020 by <a href="https://www.unfindable.net">Yabuki Taro</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+```
+
 # 実習のための資料
 
 - [4.3.2 C言語のプログラムの実行方法・トンプソンハック](chapters/04_thompson.ipynb)
