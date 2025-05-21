@@ -9,6 +9,7 @@ p.21 6行目|既存のURLは有効のまま|既存のURLは2025年に廃止．[G
 p.41 脚注6|https://about.google|https://web.archive.org/web/20250327091737/https://about.google/
 p.72 脚注7|W3C Validation|W3C Web Validator
 第5章||ツイッター→X（ツイッター），ツイート→ポスト，リツイート→リポスト
+p.82||ライセンスを作る作業とその結果が変わった。[第4章の資料](chapters/04.md)を参照
 p.91 脚注|https://twitter.com|https://x.com
 p.140 脚注7|https://www.bbcnewsv2vjtpsuy.onion|https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion
 p.140 脚注8|https://www.nytimes3xbfgragh.onion|閉鎖．[NYTの発表](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
@@ -16,20 +17,6 @@ p.179 文献14)|http://the-future-of-ideas.com/download/|https://archive.org/det
 p.179 文献15)|https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/kyozai.html|https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/
 p.179 文献16)|https://www.ipa.go.jp/osc/license1.html|https://warp.da.ndl.go.jp/info:ndljp/pid/12019585/www.ipa.go.jp/osc/license1.html
 p.183 文献50)|http://www.free-culture.cc/freecontent/|https://archive.org/details/free_culture
-
-クリエイティブコモンズのライセンスは https://creativecommons.org/chooser/ で作ります。このページに関連する部分が，次のように変わります。
-
-- p.60 図3.5のライセンス表記は次のようになる。
-
-<a href="https://example.net">M</a> © 2020 by <a href="https://www.unfindable.net">Yabuki Taro</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-
-- p.82 図4.1とは，ページのデザインが異なる。実際に https://creativecommons.org/chooser/ にアクセスして確認してほしい。
-- p.82 脚注1で述べた，規格外の属性は使われなくなった。ただし，次項のようにimg要素にalt属性が省略されているため，構文チェックではエラーになる。
-- p.83のHTMLは次のように変わる。
-
-```html
-<a href="https://example.net">M</a> © 2020 by <a href="https://www.unfindable.net">Yabuki Taro</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-```
 
 # 実習のための資料
 
