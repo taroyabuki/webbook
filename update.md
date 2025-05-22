@@ -11,6 +11,7 @@ p.72 脚注7|W3C Validation|W3C Web Validator
 第5章||ツイッター→X（ツイッター），ツイート→ポスト，リツイート→リポスト
 p.82||ライセンスを作る作業とその結果が変わった。[第4章の資料](chapters/04.md)を参照
 p.91 脚注1|https://twitter.com|https://x.com
+p.94 図5.5|https://bitly.com/bcat-tools|https://bellingcat.gitbook.io/toolkit
 p.112 脚注1|Magret Bunzel-Drüke|DFoidl（[更新の経緯](https://commons.wikimedia.org/w/index.php?title=File%3ATaurus_bull_MBD.jpg&diff=699430664&oldid=611351116)）
 p.140 脚注7|https://www.bbcnewsv2vjtpsuy.onion|https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion
 p.140 脚注8|https://www.nytimes3xbfgragh.onion|閉鎖．[NYTの発表](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
